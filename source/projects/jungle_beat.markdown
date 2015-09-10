@@ -96,7 +96,7 @@ Then we'll want to stretch the Linked List underpinnings from a Pry session:
 > jb.insert(4, "boop bop bop boop")
 => "tee tee tee tee boop bop bop boop deep dep dep deep"
 > jb.find(8, 2)
-=> "deep dep"
+=> "deep tee"
 ```
 
 ### Internal Structure
