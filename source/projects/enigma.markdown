@@ -149,6 +149,12 @@ Now you should have all the components in place such that your command-line encr
 * Swap some encrypted messages with a classmate and see if each other can decrypt them correctly
 * Start experimenting with the cracking functionality
 
+## Extensions
+
+### 1. Crack two styles of enemy messages
+
+Not all enemy messages conclude with "..end.." Some messages start with "Attention!" Enhance your code cracking machine to decrypt either message style.  
+
 ## Evaluation Rubric
 
 The project will be assessed with the following rubric:
